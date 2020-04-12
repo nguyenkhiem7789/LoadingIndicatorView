@@ -23,7 +23,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.nguyenkhiemit:LoadingIndicatorView:0.1.0'
+	        implementation 'com.github.nguyenkhiem7789:LoadingIndicatorView:0.1.0'
 	}
 
 Usage
