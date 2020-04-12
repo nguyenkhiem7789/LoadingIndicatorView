@@ -1,2 +1,2 @@
-include ':app'
+include ':sample', ':loadingindicator'
 rootProject.name='LoadingIndicatorView'
