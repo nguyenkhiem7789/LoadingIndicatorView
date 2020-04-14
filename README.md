@@ -1,5 +1,7 @@
 # LoadingIndicatorView
 
+<img src="https://user-images.githubusercontent.com/18132015/79178430-77ff3c80-7e2f-11ea-8ff6-a162da937196.jpg" width="300">
+
 How to
 
 To get a Git project into your build:
